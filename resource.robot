@@ -8,5 +8,5 @@ ${valid_password}     learning
 
 *** Keywords ***
 Open the browser with given url
-    Create Webdriver    Chrome      executable_path=E:/chromedriver
+    Create Webdriver    Chrome      executable_path=C:/chromedriver
     Go To   https://rahulshettyacademy.com/loginpagePractise/
